@@ -1,0 +1,13 @@
+form {
+  display: flex;
+  flex-direction: column;
+
+  width: 300px;
+}
+
+input {
+  margin-bottom: 5px;
+  padding: 15px;
+  border-radius: 7px;
+  border-color: navy;
+}
